@@ -14,9 +14,8 @@ Collated links and files for a variety of crowd sourced initiatives.
 
 ## Coronavirus Tech Handbook
 
-A collation of useful information and resources
-[Link](https://coronavirustechhandbook.com/home)
+[A collation of useful information and resources](https://coronavirustechhandbook.com/home)
 
 ## 3D Printing
 
-[3D printing resources for visors and masks](/3dPrinting.md))
+[3D printing resources for visors and masks](/3dPrinting.md)
