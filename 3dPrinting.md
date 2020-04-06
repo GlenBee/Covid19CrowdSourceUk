@@ -1,6 +1,6 @@
-# [National 3D Printing Society Face Shields](https://national3dprintingsociety.co.uk/) 
-
 Face shields for NHS staff.
+
+# [National 3D Printing Society Face Shields](https://national3dprintingsociety.co.uk/medical-am-covid-19/) 
 
 Crowd sourcing 3d printer owners for the mounts, then Optimus Medical or MedSUpply will sterilise and add transparent visor
 
@@ -13,9 +13,11 @@ Requires 3D printer with mimimum bed size of approx 210x210mm, print in either P
 
 Print time per visor is around 1 hour
 
-[Go Fund Me]
+- [3D Printer Owners](https://docs.google.com/forms/d/e/1FAIpQLSfH2z6nV3u1-t075mHJ8zqGtEluItKPjAeHTdNvPqXfNHZsrQ/viewform)
+- [Slack conversation](https://national3d.slack.com/join/shared_invite/zt-d17ch2mr-UBQ7rHz0XFNFCPmHEHC5bg)
+- [Donate](https://www.justgiving.com/campaign/N3DPS)
+- [STL files](https://drive.google.com/drive/folders/129jB3zh02wpwGTzAHbTjaFb3jSuSFAaC)
 
-Face shields for NHS staff.
 
 
 # [3D Crowd Face Shields](https://www.3dcrowd.uk/)
@@ -24,4 +26,7 @@ Face shields for NHS staff.
 
 3D printer required for making mounts
 
-[Request](https://docs.google.com/forms/d/e/1FAIpQLSd7XKkSIiTqiWeLM1oe92ROh_jgsZWp_Q8cKpnk_iZvdmsnUQ/viewform) | [Volunteer](https://docs.google.com/forms/d/e/1FAIpQLScNRsoECLifQX_j34ug8FHrFj7qbzHs5UX2pridDP7lKG3oXg/viewform) | [Donate](https://www.gofundme.com/f/3dcrowd-emergency-3d-printed-face-shields) | [Sponsor](mailto:sponsors@3dcrowd.uk)
+- [Request](https://docs.google.com/forms/d/e/1FAIpQLSd7XKkSIiTqiWeLM1oe92ROh_jgsZWp_Q8cKpnk_iZvdmsnUQ/viewform) 
+- [Volunteer](https://docs.google.com/forms/d/e/1FAIpQLScNRsoECLifQX_j34ug8FHrFj7qbzHs5UX2pridDP7lKG3oXg/viewform) 
+- [Donate](https://www.gofundme.com/f/3dcrowd-emergency-3d-printed-face-shields)
+- [Sponsor](mailto:sponsors@3dcrowd.uk)
