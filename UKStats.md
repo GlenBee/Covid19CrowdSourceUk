@@ -1,8 +1,8 @@
 # UK Statistics
 
-Note 1: Original source data from [Gov.UK website](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases)
-Note 2: Data from 16th March onwards taken from BBC news published figures
-Note 3: Registration of fatalities can be up to 10 days behind the actual event, depending on how lonbg it takes for information to be sent by the doctor or hospital to the Registry Office
+- Note 1: Original source data from [Gov.UK website](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases)
+- Note 2: Data from 16th March onwards taken from BBC news published figures
+- Note 3: Registration of fatalities can be up to 10 days behind the actual event, depending on how lonbg it takes for information to be sent by the doctor or hospital to the Registry Office
 
 
 | Date       | Daily confirmed cases | Total confirmed cases | % increase from previous day | Total fatalities | Fatalities today | % fatalities today |
