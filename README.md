@@ -2,10 +2,13 @@
 
 Collated links and files for a variety of crowd sourced initiatives.
 
-
-## CoronaVirus UK Map
+## Coronavirus UK Map
 
 [UK Map](https://coronavirusmap.co.uk/)
+
+## Coronavirus data table
+
+[Data table](/UKStats.md)
 
 ## Global maps and data
 
