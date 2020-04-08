@@ -12,8 +12,8 @@ Collated links and files for a variety of crowd sourced initiatives.
 
 ## Global maps and data
 
-[Tabular data showing current situation per country](https://ncov2019.live/)
-[John Hopkins University world map](https://coronavirus.jhu.edu/map.html)
+- [Tabular data showing current situation per country](https://ncov2019.live/)
+- [John Hopkins University world map](https://coronavirus.jhu.edu/map.html)
 
 ## Coronavirus Tech Handbook
 

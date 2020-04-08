@@ -4,6 +4,8 @@
 - Note 2: Data from 16th March onwards taken from BBC news published figures
 - Note 3: Registration of fatalities can be up to 10 days behind the actual event, depending on how lonbg it takes for information to be sent by the doctor or hospital to the Registry Office
 
+[Excel to Markdown conversion by thisDaveJ.com](https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/)
+
 
 | Date       | Daily confirmed cases | Total confirmed cases | % increase from previous day | Total fatalities | Fatalities today | % fatalities today |
 |------------|-----------------------|-----------------------|------------------------------|------------------|------------------|--------------------|
@@ -74,3 +76,4 @@
 | 04/04/2020 | 3735                  | 41903                 | 8.9%                         | 4313             | 708              | 10.3%              |
 | 05/04/2020 | 5903                  | 47806                 | 12.3%                        | 4934             | 621              | 10.3%              |
 | 06/04/2020 | 3802                  | 51608                 | 7.4%                         | 5373             | 439              | 10.4%              |
+| 07/04/2020 | 3634                  | 55242                 | 7%                           | 6159             | 786              | 11.1%              |
