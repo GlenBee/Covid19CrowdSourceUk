@@ -5,7 +5,7 @@ Face shields for NHS staff.
 Crowd sourcing 3d printer owners for the mounts, then Optimus Medical or MedSUpply will sterilise and add transparent visor
 
 - Route 1: DHL to Optimus Medical to NHS
-- Route 2: Drop off of 20-149 via Morrissons collection points or IGUS to MedSupplyUK to NHS
+- [Route 2: Drop off of 20-149 via Morrissons collection points or IGUS to MedSupplyUK to NHS](/N3DPS_Route2.md)
 
 Working on getting CE approval by Friday 10th April
 
