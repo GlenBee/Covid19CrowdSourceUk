@@ -1,8 +1,17 @@
 [< Back](/README.md)
 
-Face shields for NHS staff.
+# Face shields for NHS staff.
 
-# [National 3D Printing Society Face Shields](https://national3dprintingsociety.co.uk/medical-am-covid-19/) 
+Two main initiatives exist. Both involve 3D printing a face shield mount, with a plastic, transparent sheet then added.
+Plastic sheets are from readily available office supplies.
+Attachment involves using a hole punch on the plastic sheet, the holes then line up with mounting points on the visor.
+
+- [N3DPS example](https://images.bigissue.com/2020/04/rudraa.jpeg)
+- [3D Crowd example](https://res.cloudinary.com/dwh6m5mbn/image/upload/q_auto/v1586434723/Frontline_workers_in_3P_visors_9_of_12_copy_xiqdi8.jpg)
+
+
+
+## [National 3D Printing Society Face Shields](https://national3dprintingsociety.co.uk/medical-am-covid-19/) 
 
 Crowd sourcing 3d printer owners for the mounts, then Optimus Medical or MedSUpply will sterilise and add transparent visor
 
@@ -22,7 +31,7 @@ Print time per visor is around 1 hour
 
 
 
-# [3D Crowd Face Shields](https://www.3dcrowd.uk/)
+## [3D Crowd Face Shields](https://www.3dcrowd.uk/)
 
 80,000 shields in initial batch (as of 6th April 2020)
 
